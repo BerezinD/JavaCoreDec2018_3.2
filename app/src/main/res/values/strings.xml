@@ -1,0 +1,36 @@
+<resources>
+	<string name="app_name">Locale and ResourceBundle</string>
+	<string name="ok">OK, got it!</string>
+	<string name="chose_language">Choose a language</string>
+	<string name="english">English</string>
+	<string name="russian">Русский</string>
+	<string name="answer">Answer</string>
+
+	<string-array name="questions">
+		<item>Are there any tips and advice for taking OCA exam? </item>
+		<item>What is the policy on posting questions I saw on the exam?</item>
+		<item>What other certifications do I need before I go for the OCAJP certification?</item>
+		<item>Where can I find the FAQs for the legacy SCJA exam?</item>
+		<item>Where do I see my certification results?</item>
+		<item>Has anyone blogged about the exam?</item>
+		<item>When will Mi A3 appear?</item>
+		<item>Do not come SMS on Xiaomi</item>
+		<item>What was it?</item>
+	</string-array>
+
+	<string-array name="answers">
+		<item>In the OcajpWallOfFame you\'ll find experiences (including resources they have used) about other
+			ranchers having already passed the OCA exam. So these experiences and stories could also be very useful.</item>
+		<item>You may not describe or talk about the questions you saw on any of the Oracle exams - see the CodeRanch's Policy on Real Questions for further details.</item>
+		<item>No prerequisites for this certification.</item>
+		<item>The SCJA FAQs can be found here:\nhttps://coderanch.com/wiki/659888/certification/OCAJ-Faq</item>
+		<item>See certview wiki page:\n
+			https://coderanch.com/wiki/683010/certification/Oracle-certification-results-certview-URL</item>
+		<item>Robert James Liguori\'s Blog, Getting Certified with Java SE 8</item>
+		<item>No new information, rumors or renders have yet appeared on the network. Therefore, even an approximate date, so far no one can name. Approximately it is worth looking at the date of the presentation of the Mi A2 and Mi A2 Lite, that is, not earlier than after 1 year has passed.</item>
+		<item>First of all, pay attention to the status of the SIM card. Are the calls normal, or are there problems
+			too? Contact your operator.\n
+			Also check if background processes are locked. If it is set, there may be problems with SMS. Go to the settings in the SMS Center and put "No restrictions". If all else fails, only a flashing remains.</item>
+		<item>It was a game of hunting questions like this.</item>
+	</string-array>
+</resources>
